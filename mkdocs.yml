@@ -1,0 +1,87 @@
+site_name: Acuva•GIS docs
+site_description: Explore documentation for our core services
+site_url: https://acuvagis.com
+site_author: Acuva•GIS Core Team
+repo_url: https://github.com/AcuvaGIS/core-docs
+copyright: "Acuva•GIS is licensed under the <a href='https://github.com/AcuvaGIS/core-docs/blob/main/LICENSE'>MIT license</a>"
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+
+theme:
+  name: material #cinder
+  # custom_dir: "cinder"
+  colorscheme: dracula
+  highlightjs: true
+  hljs_languages:
+    - yaml
+  palette:
+    primary: teal
+    accent: indigo
+    toggle:
+      - scheme: default
+        icon: material/brightness-7
+        name: Switch to dark mode
+      - scheme: slate
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: en
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: home.md
+  - Getting Started: getting-started.md
+  - About:
+      - About Us: about/index.md
+      - Contributors: about/contributors.md
+      - Funders: about/funders.md
+      - Logos: about/logos.md
+  - Contact: contact-us.md
+  - Installations:
+      - Install Core Tools: installations.md
+  - Web and Mobile:
+      - Web and Mobile GIS: web-mobile.md
+  - Web Mapping:
+      - Mapping Solutions: web-mapping.md
+  - Plugins Development:
+      - QGIS Plugins: qgis-plugins.md
+  - Spatial Analysis:
+      - Spatial Analysis: spatial-analysis.md
+  - Custom React Tooling:
+      - Custom React GIS tooling: react-custom-tooling.md
+  - ArcGIS:
+      - ArcGIS Experience: arcgis-.md
+  - QGIS:
+      - QGIS Experience: qgis-plugins.md
+
+  - Data Portals:
+      - CKAN: data-portals/ckan.md
+      - Custom Portal Solutions: data-portals/custom-portal-solutions.md
+  - Cloud Services:
+      - Cloud Development: cloud-services/index.md
+      - AWS Experience: cloud-services/cloud-specifics/AWS/aws-intro.md
+      - Google Cloud Experience: cloud-services/cloud-specifics/GCP/google-cloud-intro.md
+      - Serveless GIS Experience: cloud-services/cloud-specifics/serverless/serverless.md
+  - Advanced Techniques:
+      - advanced-techniques.md
+
+extra_css:
+  - css/custom.css # path to tailwind.css
+
+extra_javascript:
+  - js/custom.js
+
+plugins:
+  - mkapi
+  - search
+  - mkdocstrings
+
+markdown_extensions:
+  - admonition
+
+watch:
+  - .
