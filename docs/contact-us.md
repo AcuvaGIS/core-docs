@@ -1,5 +1,3 @@
-## Contact Us
-
 For more information and inquiries, please don't hesitate to reach out to us:
 
 - **Email:** [acuvagis@gmail.com](mailto:acuvagis@gmail.com)

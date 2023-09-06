@@ -97,5 +97,3 @@ prometheus --config.file=prometheus.yml
 In your CKAN instance, configure data sources to include data from the Matatu system and the Biodiversity system. Refer to the CKAN documentation for integration instructions.
 
 Set up data sources to point to the respective Prometheus instances for monitoring and data collection.
-
-

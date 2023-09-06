@@ -5,14 +5,8 @@ site_author: Acuva•GIS Core Team
 repo_url: https://github.com/AcuvaGIS/core-docs
 copyright: "Acuva•GIS is licensed under the <a href='https://github.com/AcuvaGIS/core-docs/blob/main/LICENSE'>MIT license</a>"
 
-validation:
-  omitted_files: warn
-  absolute_links: warn
-  unrecognized_links: warn
-
 theme:
-  name: material #cinder
-  # custom_dir: "cinder"
+  name: material
   colorscheme: dracula
   highlightjs: true
   hljs_languages:
@@ -38,26 +32,36 @@ nav:
   - About:
       - About Us: about/index.md
       - Contributors: about/contributors.md
+      - Contributing: contributing/CONTRIBUTING.md
       - Funders: about/funders.md
       - Logos: about/logos.md
   - Contact: contact-us.md
+  - Developer Guide: dev-guide/index.md
   - Installations:
-      - Install Core Tools: installations.md
+      - Install Core Tools: installations/index.md # Mention Tech Stack
+      - CKAN Customization: installations/ckan-customization-guide/index.md
+      - Frictionless For Portals: installations/frictionless-customization-guide/index.md
+      - Monitoring Tools Guide: installations/monitoring/index.md
+      - Monitoring with Sentry: installations/monitoring/sentry.md
+      - Monitoring with Grafana: installations/monitoring/grafana.md
+      - Monitoring with Prometheus: installations/monitoring/prometheus.md
   - Web and Mobile:
-      - Web and Mobile GIS: web-mobile.md
-  - Web Mapping:
-      - Mapping Solutions: web-mapping.md
+      - Web and Mobile GIS: web-mobile-solutions/index.md
+      - Web and Mobile Mapping: web-mobile-solutions/web-mapping.md
+      - Visualization: web-mobile-solutions/data-viz.md
   - Plugins Development:
-      - QGIS Plugins: qgis-plugins.md
+      - QGIS: qgis/index.md
+      - QGIS Solutions: qgis/qgis-solutions.md
   - Spatial Analysis:
-      - Spatial Analysis: spatial-analysis.md
+      - Spatial Analysis: analytics/spatial-analysis.md
   - Custom React Tooling:
-      - Custom React GIS tooling: react-custom-tooling.md
+      - How We Tailor: custom-tooling/index.md
+      - Custom React GIS tooling: custom-tooling/react-custom-tooling.md
+      - Python Ecosystem: custom-tooling/python.md
+      - Cloud and Deployments: custom-tooling/deployments.md
   - ArcGIS:
-      - ArcGIS Experience: arcgis-.md
-  - QGIS:
-      - QGIS Experience: qgis-plugins.md
-
+      - ArcGIS: arcgis/index.md
+      - ArcGIS Solutions: arcgis/arcgis-solutions.md
   - Data Portals:
       - CKAN: data-portals/ckan.md
       - Custom Portal Solutions: data-portals/custom-portal-solutions.md
@@ -65,12 +69,23 @@ nav:
       - Cloud Development: cloud-services/index.md
       - AWS Experience: cloud-services/cloud-specifics/AWS/aws-intro.md
       - Google Cloud Experience: cloud-services/cloud-specifics/GCP/google-cloud-intro.md
-      - Serveless GIS Experience: cloud-services/cloud-specifics/serverless/serverless.md
+      - Serverless GIS Experience: cloud-services/cloud-specifics/serverless/serverless.md
   - Advanced Techniques:
-      - advanced-techniques.md
+      - Advanced Techniques: advanced/index.md
+  - eBooks:
+      - eBooks Home: ebooks/index.md
+      - Indoor Navigation Systems: ebooks/indoor-navigation-systems.md
+      - Business Sustainability and the Science of Where: ebooks/business-sustainability-and-the-science-of-where.md
+      - Location Analytics: ebooks/location-analytics.md
+      - State of The Art::Web and Mobile GIS: ebooks/state-of-the-art-web-and-mobile-gis.md
+      - GIS in Sales and Marketing: ebooks/gis-in-sales-and-marketing.md
+      - GIS for sustainable development: ebooks/gis-for-sustainable-development.md
+      - GIS in Telecom: ebooks/gis-in-telecom.md
+      - GIS and Ride Sharing: ebooks/gis-and-ride-sharing.md
+      - Kenya Space Agency Downloads: ebooks/kenya-space-agency-downloads.md
 
 extra_css:
-  - css/custom.css # path to tailwind.css
+  - css/custom.css
 
 extra_javascript:
   - js/custom.js
