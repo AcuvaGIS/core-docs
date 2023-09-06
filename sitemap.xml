@@ -1,242 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://acuvagis.com/contact-us/</loc>
+         <loc>https://acuvagis.com/core-docs/contact-us/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/getting-started/</loc>
+         <loc>https://acuvagis.com/core-docs/getting-started/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/home/</loc>
+         <loc>https://acuvagis.com/core-docs/home/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/about/</loc>
+         <loc>https://acuvagis.com/core-docs/about/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/about/contributors/</loc>
+         <loc>https://acuvagis.com/core-docs/about/contributors/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/about/funders/</loc>
+         <loc>https://acuvagis.com/core-docs/about/funders/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/about/logos/</loc>
+         <loc>https://acuvagis.com/core-docs/about/logos/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/advanced/</loc>
+         <loc>https://acuvagis.com/core-docs/advanced/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/analytics/spatial-analysis/</loc>
+         <loc>https://acuvagis.com/core-docs/analytics/spatial-analysis/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/arcgis/</loc>
+         <loc>https://acuvagis.com/core-docs/arcgis/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/arcgis/arcgis-solutions/</loc>
+         <loc>https://acuvagis.com/core-docs/arcgis/arcgis-solutions/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/cloud-services/</loc>
+         <loc>https://acuvagis.com/core-docs/cloud-services/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/cloud-services/cloud-specifics/AWS/aws-intro/</loc>
+         <loc>https://acuvagis.com/core-docs/cloud-services/cloud-specifics/AWS/aws-intro/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/cloud-services/cloud-specifics/GCP/google-cloud-intro/</loc>
+         <loc>https://acuvagis.com/core-docs/cloud-services/cloud-specifics/GCP/google-cloud-intro/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/cloud-services/cloud-specifics/serverless/serverless/</loc>
+         <loc>https://acuvagis.com/core-docs/cloud-services/cloud-specifics/serverless/serverless/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/contributing/CONTRIBUTING/</loc>
+         <loc>https://acuvagis.com/core-docs/contributing/CONTRIBUTING/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/custom-tooling/</loc>
+         <loc>https://acuvagis.com/core-docs/custom-tooling/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/custom-tooling/deployments/</loc>
+         <loc>https://acuvagis.com/core-docs/custom-tooling/deployments/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/custom-tooling/python/</loc>
+         <loc>https://acuvagis.com/core-docs/custom-tooling/python/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/custom-tooling/react-custom-tooling/</loc>
+         <loc>https://acuvagis.com/core-docs/custom-tooling/react-custom-tooling/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/data-portals/ckan/</loc>
+         <loc>https://acuvagis.com/core-docs/data-portals/ckan/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/data-portals/custom-portal-solutions/</loc>
+         <loc>https://acuvagis.com/core-docs/data-portals/custom-portal-solutions/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/dev-guide/</loc>
+         <loc>https://acuvagis.com/core-docs/dev-guide/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/dev-guide/django-standards/</loc>
+         <loc>https://acuvagis.com/core-docs/dev-guide/django-standards/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/dev-guide/frontend-react-guide/</loc>
+         <loc>https://acuvagis.com/core-docs/dev-guide/frontend-react-guide/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/dev-guide/nodejs-guide/</loc>
+         <loc>https://acuvagis.com/core-docs/dev-guide/nodejs-guide/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/business-sustainability-and-the-science-of-where/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/business-sustainability-and-the-science-of-where/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/gis-and-ride-sharing/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/gis-and-ride-sharing/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/gis-for-sustainable-development/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/gis-for-sustainable-development/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/gis-in-sales-and-marketing/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/gis-in-sales-and-marketing/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/gis-in-telecom/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/gis-in-telecom/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/indoor-navigation-systems/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/indoor-navigation-systems/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/kenya-space-agency-downloads/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/kenya-space-agency-downloads/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/location-analytics/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/location-analytics/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/ebooks/state-of-the-art-web-and-mobile-gis/</loc>
+         <loc>https://acuvagis.com/core-docs/ebooks/state-of-the-art-web-and-mobile-gis/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/ckan-customization-guide/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/ckan-customization-guide/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/frictionless-customization-guide/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/frictionless-customization-guide/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/monitoring/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/monitoring/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/monitoring/grafana/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/monitoring/grafana/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/monitoring/prometheus/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/monitoring/prometheus/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/installations/monitoring/sentry/</loc>
+         <loc>https://acuvagis.com/core-docs/installations/monitoring/sentry/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/qgis/</loc>
+         <loc>https://acuvagis.com/core-docs/qgis/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/qgis/qgis-solutions/</loc>
+         <loc>https://acuvagis.com/core-docs/qgis/qgis-solutions/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/web-mobile-solutions/</loc>
+         <loc>https://acuvagis.com/core-docs/web-mobile-solutions/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/web-mobile-solutions/data-viz/</loc>
+         <loc>https://acuvagis.com/core-docs/web-mobile-solutions/data-viz/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://acuvagis.com/web-mobile-solutions/web-mapping/</loc>
+         <loc>https://acuvagis.com/core-docs/web-mobile-solutions/web-mapping/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
