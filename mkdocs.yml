@@ -1,6 +1,6 @@
 site_name: Acuva•GIS docs
 site_description: Explore documentation for our core services
-site_url: https://acuvagis.com
+site_url: https://AcuvaGIS.github.io/core-docs/
 site_author: Acuva•GIS Core Team
 repo_url: https://github.com/AcuvaGIS/core-docs
 copyright: "Acuva•GIS is licensed under the <a href='https://github.com/AcuvaGIS/core-docs/blob/main/LICENSE'>MIT license</a>"
@@ -27,7 +27,7 @@ docs_dir: docs
 site_dir: site
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Getting Started: getting-started.md
   - About:
       - About Us: about/index.md
@@ -85,10 +85,10 @@ nav:
       - Kenya Space Agency Downloads: ebooks/kenya-space-agency-downloads.md
 
 extra_css:
-  - css/custom.css
+  - /core-docs/css/custom.css
 
 extra_javascript:
-  - js/custom.js
+  - /core-docs/js/custom.js
 
 plugins:
   - mkapi
